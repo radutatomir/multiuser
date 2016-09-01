@@ -7,4 +7,8 @@ public class Model {
     private int id;
     private String user;
 	private char c;
+	
+	public void DoMagic(int x) {
+		
+	}
 }
