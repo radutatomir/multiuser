@@ -11,4 +11,8 @@ public class Model {
     public void doMagic() {
 
     }
+
+	public void DoMagic(int x) {
+
+	}
 }
